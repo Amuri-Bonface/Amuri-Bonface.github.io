@@ -27,6 +27,18 @@ projects:
     forks: false
     projects:
       - udacity-course
+      - directus
+      - ganttproject
+      - 100-Days-Of-ML-Code
+      - stanford-cs-229-machine-learning
+      - job-system-cookbook
+      - ticketdesk
+      - Awesome_APIs
+      - parkstash
+      - taxi-app
+      - mobile-samples
+      - ASE_Project
+      - firebase-cms
 
 # social_media:
   # behance: your_username
