@@ -28,6 +28,20 @@ projects:
     projects:
       - HotelManagement
       - directus
+      - TubiPlayer
+      - fireadmin
+      - ganttproject
+      - udacity-course
+      - 100-Days-Of-ML-Code
+      - stanford-cs-229-machine-learning
+      - job-system-cookbook
+      - CommunityServer
+      - Awesome_APIs
+      - parkstash
+      - ASE_Project
+      - mobile-samples
+      - bitx-android
+      - taxi-app
 
 # social_media:
   # behance: your_username
