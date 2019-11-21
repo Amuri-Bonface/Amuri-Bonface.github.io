@@ -26,22 +26,22 @@ projects:
     archived: false
     forks: true
     projects:
-      - udacity-course
-      - FirestoreChatApp
-      - directus
-      - ganttproject
-      - 100-Days-Of-ML-Code
-      - stanford-cs-229-machine-learning
-      - job-system-cookbook
-      - ticketdesk
-      - Awesome_APIs
-      - parkstash
-      - taxi-app
-      - mobile-samples
-      - ASE_Project
-      - firebase-cms
-      - fireadmin
-      - OneSignal-Android-SDK
+      udacity-course
+      FirestoreChatApp
+      directus
+      ganttproject
+      100-Days-Of-ML-Code
+      stanford-cs-229-machine-learning
+      job-system-cookbook
+      ticketdesk
+      Awesome_APIs
+      parkstash
+      taxi-app
+      mobile-samples
+      ASE_Project
+      firebase-cms
+      fireadmin
+      OneSignal-Android-SDK
 
  social_media:
   # behance: your_username
@@ -61,9 +61,9 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: NearbyShops
-    web_url: https://github.com/NearbyShops/
+#topics:
+  #name: NearbyShops
+    #web_url: https://github.com/NearbyShops/
    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   #- name: Web design
