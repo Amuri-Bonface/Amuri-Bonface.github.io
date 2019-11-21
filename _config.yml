@@ -27,6 +27,7 @@ projects:
     forks: false
     projects:
       - HotelManagement
+      - directus
 
 # social_media:
   # behance: your_username
