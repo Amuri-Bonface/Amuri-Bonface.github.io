@@ -25,23 +25,8 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
-      udacity-course
-      FirestoreChatApp
-      directus
-      ganttproject
-      100-Days-Of-ML-Code
-      stanford-cs-229-machine-learning
-      job-system-cookbook
-      ticketdesk
-      Awesome_APIs
-      parkstash
-      taxi-app
-      mobile-samples
-      ASE_Project
-      firebase-cms
-      fireadmin
-      OneSignal-Android-SDK
+    #projects:
+     # - 
 
  social_media:
   # behance: your_username
