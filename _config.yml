@@ -27,6 +27,7 @@ projects:
     forks: true
     projects:
       - udacity-course
+      - FirestoreChatApp
       - directus
       - ganttproject
       - 100-Days-Of-ML-Code
