@@ -61,12 +61,8 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: other
-   web_url: https://facebook.com
-    image_url: https://www.livecareer.com/wp-content/themes/livecareer/images/logo.svg
-
-  #- name: Web design
+#topics:
+    #- name: Web design
 
   #- name: Sass
     #web_url: https://github.com/topics/sass
