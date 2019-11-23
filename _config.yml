@@ -24,7 +24,7 @@ projects:
   limit: 100
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
       - HotelManagement
       - directus
